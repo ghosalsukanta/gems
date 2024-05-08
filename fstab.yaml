@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p18752-e1275089.adobeaemcloud.com//bin/franklin.delivery/ghosalsukanta/gems/main"
+    url: "https://author-p18752-e1275089.adobeaemcloud.com/bin/franklin.delivery/ghosalsukanta/gems/main"
     type: "markup"
     suffix: ".html"
